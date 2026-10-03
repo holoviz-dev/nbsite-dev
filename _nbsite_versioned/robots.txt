@@ -1,0 +1,6 @@
+# Generated automatically by nbsite
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /en/docs/latest/
+Sitemap: https://nbsite.holoviz.org/sitemap.xml
